@@ -159,13 +159,13 @@ const Contact = () => {
           <div className="mt-8 flex items-center">
             <h3 className="text-xl text-neutral">Social</h3>
             <div className="bg-gray-400 w-10 h-[2px] mx-4"></div>
-            <a
+            {/* <a
               href="https://linkedin.com/in/gilberthutapea"
               target="blank"
               className="text-3xl text-neutral hover:text-primary hover:-translate-y-1.5 shadow-lg mx-1 duration-300"
             >
               <FaLinkedin></FaLinkedin>
-            </a>
+            </a> */}
             <a
               href="https://www.github.com/bluedone"
               target="blank"
@@ -173,7 +173,7 @@ const Contact = () => {
             >
               <FaGithubSquare></FaGithubSquare>
             </a>
-            <a
+            {/* <a
               href="https://twitter.com/GilbertHutapeaa"
               target="blank"
               className="text-3xl text-neutral hover:text-primary hover:-translate-y-1.5 shadow-lg mx-1 duration-300"
@@ -186,7 +186,7 @@ const Contact = () => {
               className="text-3xl text-neutral hover:text-primary hover:-translate-y-1.5 shadow-lg mx-1 duration-300"
             >
               <FaInstagramSquare></FaInstagramSquare>
-            </a>
+            </a> */}
           </div>
         </motion.div>
       </div>

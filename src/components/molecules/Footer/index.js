@@ -11,7 +11,7 @@ const Footer = () => {
         style={{ backgroundColor: "#313131" }}
       >
         <div className="flex items-center justify-center mb-6">
-          <a
+          {/* <a
             className="inline-block mx-2"
             href="https://twitter.com/GilbertHutapeaa"
             target="_blank"
@@ -26,7 +26,7 @@ const Footer = () => {
             rel="noopener noreferrer"
           >
             <FaLinkedin className="text-2xl text-blue-400" />
-          </a>
+          </a> */}
           <a
             className="inline-block mx-2"
             href="https://www.github.com/bluedone"
@@ -35,14 +35,14 @@ const Footer = () => {
           >
             <FaGithub className="text-2xl text-black" />
           </a>
-          <a
+          {/* <a
             className="inline-block mx-2"
             href="https://www.instagram.com/bethup97/"
             target="_blank"
             rel="noopener noreferrer"
           >
             <FaInstagram className="text-2xl text-pink-500" />
-          </a>
+          </a> */}
         </div>
         <div className="hidden  md:flex items-center justify-center mb-6 flex-wrap">
           <a

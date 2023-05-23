@@ -64,7 +64,7 @@ This project was created using the following technologies.
 ![screen-5](https://github.com/bluedone/portfolio-site/assets/132304001/76f54b47-40dd-44e9-92b2-930815c7cb00)
 
 ## Author
-- Portfolio: [Braydon](https://berthutapea.vercel.app/)
+- Portfolio: [Braydon](https://portfolio-ste.web.app/)
 - Github: [Braydon](https://github.com/bluedone)
 <!-- - Sponsor: [Braydon](https://saweria.co/berthutapea)
 - Linkedin: [Braydon](https://www.linkedin.com/in/gilberthutapea/) -->

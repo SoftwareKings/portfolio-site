@@ -53,15 +53,15 @@ This project was created using the following technologies.
 
  ##  Screenshots 
  
-![portfolio-1](https://github.com/bluedone/portfolio-site/assets/132304001/f705f29a-0d0f-4cb4-8bb0-5d2c38483c71)
+![screen-1](https://github.com/bluedone/portfolio-site/assets/132304001/daf015e1-e09d-4cab-a5e4-67e6406b5b76)
 ---- -
-![img-2](https://github.com/berthutapea/berthutapea-portfolio/assets/111676859/b5ed935c-cc42-4d23-a2c7-765e90f198f1)
---- - 
-![img-3](https://user-images.githubusercontent.com/111676859/235824165-95c1e6b6-f3df-426e-816a-8c80a91d352d.png)
---- - 
-![img-4](https://user-images.githubusercontent.com/111676859/235824167-224063d0-624a-4aaf-b27f-f4aa8b668511.png)
---- - 
-![img-5](https://user-images.githubusercontent.com/111676859/235824168-a1028607-de4c-466a-8527-c05eedb1d6b0.png)
+![screen-2](https://github.com/bluedone/portfolio-site/assets/132304001/5695b10d-0437-422e-95ce-d76e09a87be9)
+---- -
+![screen-3](https://github.com/bluedone/portfolio-site/assets/132304001/af05068e-ec91-4f08-805e-44f7eccff624)
+---- -
+![screen-4](https://github.com/bluedone/portfolio-site/assets/132304001/8e2b798e-ea5f-423c-bd73-fae201e4b291)
+---- -
+![screen-5](https://github.com/bluedone/portfolio-site/assets/132304001/76f54b47-40dd-44e9-92b2-930815c7cb00)
 
 ## Author
 - Portfolio: [Braydon](https://berthutapea.vercel.app/)

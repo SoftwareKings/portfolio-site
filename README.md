@@ -53,7 +53,7 @@ This project was created using the following technologies.
 
  ##  Screenshots 
  
-![img-1](https://github.com/berthutapea/berthutapea-portfolio/assets/111676859/825edab2-ff3b-4c24-8a99-7bc2527bb758)
+![portfolio-1](https://github.com/bluedone/portfolio-site/assets/132304001/f705f29a-0d0f-4cb4-8bb0-5d2c38483c71)
 ---- -
 ![img-2](https://github.com/berthutapea/berthutapea-portfolio/assets/111676859/b5ed935c-cc42-4d23-a2c7-765e90f198f1)
 --- - 

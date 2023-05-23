@@ -5,7 +5,7 @@
     box-shadow: 0 0 9px 2px #141414;
     margin: 12px 0;
     width: 100%;
-    background-color: #212121;
+    background-color: #ffedab;
     color: gray;
 }
 
@@ -15,7 +15,7 @@
 
 .input-field:focus {
     outline: none;
-    box-shadow: 0 0 5px 2px #FF651C;
+    box-shadow: 0 0 5px 2px #ff651c;
 }
 
 input:-webkit-autofill,

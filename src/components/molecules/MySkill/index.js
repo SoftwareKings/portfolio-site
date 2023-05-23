@@ -7,6 +7,14 @@ import {
   FaReact,
   FaBootstrap,
   FaGithub,
+  FaPython,
+  FaRust,
+  FaSwift,
+  FaAngular,
+  FaVuejs,
+  FaPhp,
+  FaWordpress,
+  FaJira
 } from "react-icons/fa";
 import {
   SiJavascript,
@@ -15,27 +23,49 @@ import {
   SiMongodb,
   SiAdobephotoshop,
   SiFirebase,
+  SiTypescript,
+  SiJquery,
+  SiWoocommerce,
+  SiPostgresql,
+  SiMysql
 } from "react-icons/si";
 import man from "../../../assets/man.json";
 
 const MySkill = () => {
   const languages = [
-    { title: "HTML", icon: <FaHtml5 className="text-orange-600" /> },
+    { title: "HTML", icon: <FaHtml5 className="text-red-500" /> },
     { title: "CSS", icon: <FaCss3Alt className="text-blue-400" /> },
     {
       title: "JavaScript",
       icon: <SiJavascript className="text-yellow-500 rounded" />,
     },
+    {
+      title: "JavaScript",
+      icon: <SiTypescript className="text-pink-500 rounded" />,
+    },
     { title: "NodeJS", icon: <FaNodeJs className="text-green-600" /> },
+    { title: "Python", icon: <FaPython className="text-cyan-600" /> },
+    { title: "Rust", icon: <FaRust className="text-white-600" /> },
+    { title: "Swift", icon: <FaSwift className="text-indigo-600" /> },
+    { title: "PHP", icon: <FaPhp className="text-gray-600" /> },
+
   ];
   const frameworks = [
     { title: "React", icon: <FaReact className="text-cyan-400" /> },
+    { title: "Angular", icon: <FaAngular className="text-red-500" /> },
+    { title: "Vuejs", icon: <FaVuejs className="text-green-400" /> },
+    { title: "JQuery", icon: <SiJquery className="text-cyan-400" /> },
+    { title: "Wordpress", icon: <FaWordpress className="text-blue-400" /> },
+    { title: "WooCommerce", icon: <SiWoocommerce className="text-white-400" /> },
     { title: "Bootstrap", icon: <FaBootstrap className="text-indigo-600" /> },
     { title: "Tailwind", icon: <SiTailwindcss className="text-cyan-400" /> },
-    { title: "ExpressJS", icon: <SiExpress className="text-neutral" /> },
+    { title: "ExpressJS", icon: <SiExpress className="text-coral-600" /> },
+
   ];
   const tools = [
     { title: "MongoDB", icon: <SiMongodb className="text-green-500" /> },
+    { title: "PostgreSQL", icon: <SiPostgresql className="text-white-500" /> },
+    { title: "MySQL", icon: <SiMysql className="text-blue-500" /> },
     { title: "GitHub", icon: <FaGithub className="text-black" /> },
     { title: "Firebase", icon: <SiFirebase className="text-yellow-500" /> },
     {

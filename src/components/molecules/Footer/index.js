@@ -29,7 +29,7 @@ const Footer = () => {
           </a>
           <a
             className="inline-block mx-2"
-            href="https://www.github.com/berthutapea"
+            href="https://www.github.com/bluedone"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -95,7 +95,7 @@ const Footer = () => {
           </a>
           <a
             className="text-xl inline-bloc mx-6 text-neutral"
-            href="https://drive.google.com/file/d/19rnbukAhf9oPhadMhsvI3xnWF6FIYeMT/view?usp=share_link"
+            href="https://drive.google.com/file/d/1DCM4EhcJG6VK7fgQrvYfzgnVY1HiWCk-/view?usp=share_link"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -113,7 +113,7 @@ const Footer = () => {
               className="text-primary hover:underline"
               target="blank"
             >
-              Gilbert Hutapea
+              Braydon Liu
             </a>
           </p>
         </div>

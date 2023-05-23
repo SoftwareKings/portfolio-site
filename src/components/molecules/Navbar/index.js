@@ -30,7 +30,7 @@ export default function Navbar() {
   const activeLink = ({ isActive }) => {
     return {
       fontWeight: 500,
-      color: isActive && "#FF651C",
+      color: isActive && "#ff651c",
     };
   };
 
@@ -64,7 +64,7 @@ export default function Navbar() {
       <div className="w-full flex items-center justify-between px-3 md:px-24 py-3">
         <div>
           <Link to="/">
-            <h1 className="text-2xl text-primary font-lobster">Gilbert Hutapea</h1>
+            <h1 className="text-2xl text-primary font-lobster">Braydon Liu</h1>
           </Link>
         </div>
         <div>
@@ -83,7 +83,7 @@ export default function Navbar() {
 
             <a
               className="inline-block ml-4"
-              href="https://drive.google.com/file/d/19rnbukAhf9oPhadMhsvI3xnWF6FIYeMT/view?usp=share_link"
+              href="https://drive.google.com/file/d/1DCM4EhcJG6VK7fgQrvYfzgnVY1HiWCk-/view?usp=share_link"
               target="blank"
             >
               <PrimaryBtn>
@@ -102,7 +102,7 @@ export default function Navbar() {
               open={isOpen}
               onClose={toggleDrawer}
               direction="right"
-              style={{ backgroundColor: "#212121" }}
+              style={{ backgroundColor: "#ffedab" }}
               className="bla bla bla flex flex-col justify-between pb-4"
             >
               <ul className="">
@@ -131,7 +131,7 @@ export default function Navbar() {
                 <li className="text-center m-4">
                   <a
                     className="inline-block w-full"
-                    href="https://drive.google.com/file/d/19rnbukAhf9oPhadMhsvI3xnWF6FIYeMT/view?usp=share_link"
+                    href="https://drive.google.com/file/d/1DCM4EhcJG6VK7fgQrvYfzgnVY1HiWCk-/view?usp=share_link"
                     target="blank"
                   >
                     <button className="primary-button w-full text-white">
@@ -145,7 +145,7 @@ export default function Navbar() {
               </ul>
               <div className="text-center">
                 <p className="text-neutral">
-                  &copy; Copyright 2023, Gilbert Hutapea. All Rights Reserved
+                  &copy; Copyright 2023, Braydon Liu. All Rights Reserved
                 </p>
               </div>
             </Drawer>

@@ -43,7 +43,7 @@ const BlogDetail = () => {
       </div>
       <div className="flex items-center justify-between flex-wrap mt-16 mb-4">
         <span>
-          <strong className="text-primary">Gilbert Hutapea</strong>
+          <strong className="text-primary">Braydon Liu</strong>
         </span>
         <span>
           <strong className="text-primary">{blog?.date}</strong>
@@ -95,19 +95,19 @@ const BlogDetail = () => {
             Share :{" "}
           </h4>
           <div className="flex items-center gap-4 flex-wrap">
-            <EmailShareButton url={url} title="Gilbert Hutapea ">
+            <EmailShareButton url={url} title="Braydon Liu ">
               <EmailIcon size={32} round={true} />
             </EmailShareButton>
-            <FacebookShareButton url={url} title="Gilbert Hutapea ">
+            <FacebookShareButton url={url} title="Braydon Liu ">
               <FacebookIcon size={32} round={true} />
             </FacebookShareButton>
-            <TwitterShareButton url={url} title="Gilbert Hutapea ">
+            <TwitterShareButton url={url} title="Braydon Liu ">
               <TwitterIcon size={32} round={true} />
             </TwitterShareButton>
-            <LinkedinShareButton url={url} title="Gilbert Hutapea ">
+            <LinkedinShareButton url={url} title="Braydon Liu ">
               <LinkedinIcon size={32} round={true} />
             </LinkedinShareButton>
-            <WhatsappShareButton url={url} title="Gilbert Hutapea ">
+            <WhatsappShareButton url={url} title="Braydon Liu ">
               <WhatsappIcon size={32} round={true} />
             </WhatsappShareButton>
           </div>

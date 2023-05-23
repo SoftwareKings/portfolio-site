@@ -15,7 +15,7 @@ const MernBlogRepair = () => {
                 <h2 className="text-2xl text-center mb-4">
                     Sorry, the website is currently under construction, <br /> please visit github for the MERN BLOG repository
                 </h2>
-                <Link to="https://github.com/berthutapea/mern-blog-v2">
+                <Link to="https://github.com/bluedone/mern-blog-v2">
                     <PrimaryBtn className="translate-y-[70%] sm:translate-y-[-0%]">
                         <span>Go To Github MERN BLOG</span>
                         <span>

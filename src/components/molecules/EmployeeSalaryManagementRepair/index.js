@@ -15,7 +15,7 @@ const EmployeeSalaryManagementRepair = () => {
                 <h2 className="text-2xl text-center mb-4">
                     Sorry, the website is currently under construction, <br /> please visit github for the Employee Salary Management repository
                 </h2>
-                <Link to="https://github.com/berthutapea/mern-employee-salary-management">
+                <Link to="https://github.com/bluedone/mern-employee-salary-management">
                     <PrimaryBtn className="translate-y-[70%] sm:translate-y-[-0%] p-10">
                         <span>Go To Github Employee Salary Management</span>
                         <span>

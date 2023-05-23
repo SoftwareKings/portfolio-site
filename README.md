@@ -1,7 +1,7 @@
-<h1 align ="center" >Gilbert Hutapea | Portfolio</h1>
+<h1 align ="center" >Braydon Liu | Portfolio</h1>
 
 <h5  align ="center"> 
-Dedicated Front-end developer. Capable to solve working problems. Passionate about learning & development to reach the target. Eager to tackle more complex problems and continue to find ways to maximize user efficiency. My next mission is how to become a Mern stack Developer. I would love to build some Giant Website which will shine myself. <br/> <a href="https://drive.google.com/file/d/16r18tc8RhGEiQoOGTTFvgZ0g46C_oQFe/view?usp=share_link">Resume 💼</a> </h5>
+Dedicated Full Stack developer. Capable to solve working problems. Passionate about learning & development to reach the target. Eager to tackle more complex problems and continue to find ways to maximize user efficiency. My next mission is how to become a MERN+MEAN+MEVN stack Developer. I would love to build some Giant Website which will shine myself. <br/> <a href="https://drive.google.com/file/d/1DCM4EhcJG6VK7fgQrvYfzgnVY1HiWCk-/view?usp=share_link">Resume 💼</a> </h5>
 <br/>
 
   * [Configuration and Setup](#configuration-and-setup)
@@ -22,7 +22,7 @@ In order to run this project locally, simply fork and clone the repository or do
 In the first terminal
 
 ```
-$ cd berthutapea-portfolio
+$ cd portfolio_site
 $ npm install 
 $ npm run start
 ```
@@ -64,17 +64,17 @@ This project was created using the following technologies.
 ![img-5](https://user-images.githubusercontent.com/111676859/235824168-a1028607-de4c-466a-8527-c05eedb1d6b0.png)
 
 ## Author
-- Portfolio: [berthutapea](https://berthutapea.vercel.app/)
-- Github: [berthutapea](https://github.com/berthutapea)
-- Sponsor: [berthutapea](https://saweria.co/berthutapea)
-- Linkedin: [gilberthutapea](https://www.linkedin.com/in/gilberthutapea/)
-- Email: [berthutapea@gmail.com](mailto:berthutapea@gmail.com)
+- Portfolio: [Braydon](https://berthutapea.vercel.app/)
+- Github: [Braydon](https://github.com/bluedone)
+<!-- - Sponsor: [Braydon](https://saweria.co/berthutapea)
+- Linkedin: [Braydon](https://www.linkedin.com/in/gilberthutapea/) -->
+- Email: [marciajwing@gmail.com](mailto:marciajwing@gmail.com)
 
 ## License
 
 MIT License
 
-Copyright (c) 2022 Gilbert Hutapea
+Copyright (c) 2022 Braydon Liu
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

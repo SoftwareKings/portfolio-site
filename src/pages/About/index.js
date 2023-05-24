@@ -97,7 +97,7 @@ const About = () => {
               </h2>
               <h2 className="font-medium">
                 <span className="mr-2 text-primary">Email : </span>
-                marciajwing@gmail.com
+                ryancarter2035@gmail.com
               </h2>
               <h2 className="font-medium">
                 <span className="mr-2 text-primary">Address : </span>Singapore, Singapore

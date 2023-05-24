@@ -68,7 +68,7 @@ This project was created using the following technologies.
 - Github: [Braydon](https://github.com/bluedone)
 <!-- - Sponsor: [Braydon](https://saweria.co/berthutapea)
 - Linkedin: [Braydon](https://www.linkedin.com/in/gilberthutapea/) -->
-- Email: [marciajwing@gmail.com](mailto:marciajwing@gmail.com)
+- Email: [ryancarter2035@gmail.com](mailto:ryancarter2035@gmail.com)
 
 ## License
 

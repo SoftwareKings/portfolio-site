@@ -149,13 +149,13 @@ const Contact = () => {
             <MdEmail className="text-3xl mr-8 hover:text-primary cursor-pointer duration-300"></MdEmail>
             <h3 className="font-medium text-primary">ryancarter2035@gmail.com</h3>
           </div>
-          <div className="flex items-center my-6">
+          {/* <div className="flex items-center my-6">
             <FaLocationArrow className="text-2xl mr-8 hover:text-primary cursor-pointer duration-300"></FaLocationArrow>
 
             <h3 className="font-medium text-primary">
               Singapore, Singapore
             </h3>
-          </div>
+          </div> */}
           <div className="mt-8 flex items-center">
             <h3 className="text-xl text-neutral">Social</h3>
             <div className="bg-gray-400 w-10 h-[2px] mx-4"></div>

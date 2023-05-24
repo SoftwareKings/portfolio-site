@@ -99,9 +99,9 @@ const About = () => {
                 <span className="mr-2 text-primary">Email : </span>
                 ryancarter2035@gmail.com
               </h2>
-              <h2 className="font-medium">
+              {/* <h2 className="font-medium">
                 <span className="mr-2 text-primary">Address : </span>Singapore, Singapore
-              </h2>
+              </h2> */}
               <a
                 href="https://drive.google.com/file/d/1DCM4EhcJG6VK7fgQrvYfzgnVY1HiWCk-/view?usp=share_link"
                 target="blank"

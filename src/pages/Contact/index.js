@@ -141,10 +141,10 @@ const Contact = () => {
             <FaUserAlt className="text-2xl mr-8 hover:text-primary cursor-pointer duration-300"></FaUserAlt>
             <h3 className="font-medium text-primary">Braydon Liu</h3>
           </div>
-          <div className="flex items-center my-6">
+          {/* <div className="flex items-center my-6">
             <FaPhoneAlt className="text-2xl mr-8 hover:text-primary cursor-pointer duration-300"></FaPhoneAlt>
             <h3 className="font-medium text-primary">+65 6338 9396</h3>
-          </div>
+          </div> */}
           <div className="flex items-center my-6">
             <MdEmail className="text-3xl mr-8 hover:text-primary cursor-pointer duration-300"></MdEmail>
             <h3 className="font-medium text-primary">ryancarter2035@gmail.com</h3>

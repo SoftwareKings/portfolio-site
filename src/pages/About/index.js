@@ -92,9 +92,9 @@ const About = () => {
               <h2 className="font-medium">
                 <span className="mr-2 text-primary">Name : </span>Braydon Liu
               </h2>
-              <h2 className="font-medium">
+              {/* <h2 className="font-medium">
                 <span className="mr-2 text-primary">Phone : </span>+65 6338 9396
-              </h2>
+              </h2> */}
               <h2 className="font-medium">
                 <span className="mr-2 text-primary">Email : </span>
                 ryancarter2035@gmail.com

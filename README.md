@@ -55,11 +55,11 @@ This project was created using the following technologies.
  
 ![screen-1](https://github.com/bluedone/portfolio-site/assets/132304001/daf015e1-e09d-4cab-a5e4-67e6406b5b76)
 ---- -
-![screen-2](https://github.com/bluedone/portfolio-site/assets/132304001/945be6f9-d6c1-4b2e-8e08-ebfa812cf0aa)
+![screen-2](https://github.com/bluedone/portfolio-site/assets/132304001/35291369-1a74-46af-9680-dcaa4fd5bf1a)
 ---- -
 ![screen-3](https://github.com/bluedone/portfolio-site/assets/132304001/af05068e-ec91-4f08-805e-44f7eccff624)
 ---- -
-![screen-4](https://github.com/bluedone/portfolio-site/assets/132304001/8e2b798e-ea5f-423c-bd73-fae201e4b291)
+![screen-4](https://github.com/bluedone/portfolio-site/assets/132304001/683bcb44-2653-4b61-ad93-65b01948e38c)
 ---- -
 ![screen-5](https://github.com/bluedone/portfolio-site/assets/132304001/76f54b47-40dd-44e9-92b2-930815c7cb00)
 

@@ -36,7 +36,7 @@ const About = () => {
             }}
           >
             <img
-              src="https://user-images.githubusercontent.com/132304001/240367058-010f8906-0826-4fc5-a195-6820e4331f7d.png"
+              src="https://user-images.githubusercontent.com/132304001/240701154-0017fe28-0002-4e79-86e6-32b3d2c01567.png"
               alt="Braydon Liu"
               className="p-12 w-70 h-70 transform translate-y-[-12%]"
               title="Braydon Liu"

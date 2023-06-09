@@ -37,6 +37,8 @@ const Banner = () => {
               "A MERN, MEAN, MEVN-stack Developer",
               4000,
               "A Front-end Developer",
+              2000,
+              "A Ecommerce & Shopify Developer",
               2000
             ]}
             wrapper="div"
@@ -47,7 +49,7 @@ const Banner = () => {
           As a Full stack developer, I am committed to building high-quality
           web applications that meet the needs of my clients. With years of
           experience in full-stack web development, I specialize in using
-          React.js, Angular.js, Vue.js, Next js, Typescript, MongoDB, Express.js, and Node.js to
+          React.js, Angular.js, Vue.js, Next js, Typescript, MongoDB, Express.js, and Node.js, PHP, Ecommerce & Shopify to
           create scalable and robust web applications.
           {/* I am a Front-end Developer. I am very passionate to my work and
           dedicated to explore New Tools And Technologies. */}
@@ -55,7 +57,7 @@ const Banner = () => {
 
         <div className="flex items-center translate-y-[-60%] sm:translate-y-[-0%]">
           <a
-            href="https://drive.google.com/file/d/1DCM4EhcJG6VK7fgQrvYfzgnVY1HiWCk-/view?usp=share_link"
+            href="https://drive.google.com/file/d/1KWswFNN0x4xEC3Pb8Oyolk3waBriyqLq/view?usp=drive_link"
             target="blank"
           >
             <button className="primary-button">

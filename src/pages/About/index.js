@@ -73,7 +73,7 @@ const About = () => {
               As a Full stack developer, I am committed to building high-quality
               web applications that meet the needs of my clients. With years of
               experience in full-stack web development, I specialize in using
-              React.js, Angular.js, Vue.js, Next js, Typescript, MongoDB, Express.js, and Node.js to
+              React.js, Angular.js, Vue.js, Next js, Typescript, MongoDB, Express.js, and Node.js, PHP, Ecommerce to
               create scalable and robust web applications.
               {/* Dedicated Front-end developer. Capable to solve working problems.
               Passionate about learning & development to reach the target. Eager
@@ -103,7 +103,7 @@ const About = () => {
                 <span className="mr-2 text-primary">Address : </span>Singapore, Singapore
               </h2> */}
               <a
-                href="https://drive.google.com/file/d/1DCM4EhcJG6VK7fgQrvYfzgnVY1HiWCk-/view?usp=share_link"
+                href="https://drive.google.com/file/d/1KWswFNN0x4xEC3Pb8Oyolk3waBriyqLq/view?usp=drive_link"
                 target="blank"
               >
                 <div className="flex justify-center md:justify-start translate-y-[60%] sm:translate-y-[-0%]">
